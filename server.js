@@ -1,6 +1,6 @@
 const express = require("express");
-
-const { notes } = require("./db/db");
+const apiRoutes = require("./routes/apiRoutes/index.js");
+const htmlRoutes = require("./routes/htmlRoutes");
 
 const PORT = process.env.PORT || 3001;
 const app = express();
@@ -11,9 +11,6 @@ app.use(express.json());
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
-app.get("/api/notes", (req, res) => {
-  res.json(notes);
-});
 // app.post("/api/notes", (req, res) => {
 //   res.send("Hello!");
 // });
