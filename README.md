@@ -19,7 +19,7 @@ This express.js application allows the user to enter notes and as they save, the
 
 Please download the files from the link below. You can copy these files to a directory in your local computer, or you can also clone it to directory. Open the file in VS Code.
 
-[File-Download-Link](https://github.com/rramosx11/note-taker)<br>
+[Note-Taker Github Repository](https://github.com/rramosx11/note-taker)<br>
 
 ## [Usage](#table-of-contents)
 
@@ -32,7 +32,7 @@ You click on the get started link at the landing page to be redirected to the no
 - The pencil icon will allow the user to add a new note at any time.
 - The trash icon will permanently delete the selected note.
 
-![Note Taker Screenshot](https://github.com/rramosx11/note-taker/tree/main/assets/img)
+![Note Taker Screenshot](https://github.com/rramosx11/note-taker/blob/main/assets/img/Note-Taker%20Screenshot.png)
 
 ## [Contributing](#table-of-contents)
 
