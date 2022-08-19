@@ -3,7 +3,7 @@
 ## Table-of-Contents
 
 - [Description](#description)
-- [Installation](#intallation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
