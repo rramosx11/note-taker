@@ -3,9 +3,9 @@
 ## Table-of-Contents
 
 - [Description](#description)
-- [Installation](#install)
+- [Installation](#intallation)
 - [Usage](#usage)
-- [Contributing](#contribute)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
