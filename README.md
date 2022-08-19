@@ -13,34 +13,34 @@
 
 This express.js application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can delete button next to the corresponding note.
 
+[Deployed Note-Taker Webpage](https://lit-brook-89954.herokuapp.com/)
+
 ## [Installation](#table-of-contents)
 
-Please download the files from the link below. You can copy these files to a directory in your local computer, or you can also clone it to directory. Open the file in VS Code. You want to make sure that Inqurier and Node are installed in your directory.
+Please download the files from the link below. You can copy these files to a directory in your local computer, or you can also clone it to directory. Open the file in VS Code.
 
-[File-Download-Link](https://github.com/rramosx11/Professional-README-Generator)<br>
-[Inquirer-Package](https://www.npmjs.com/package/inquirer)
+[File-Download-Link](https://github.com/rramosx11/note-taker)<br>
 
 ## [Usage](#table-of-contents)
 
-After installation is complete, run the following code: ‘node index’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘File created!’, and you should see your file called ‘generated-README’. It’s generated in mark down syntax so you can copy and paste that code into your project!
+You click on the get started link at the landing page to be redirected to the notes page. Once in the notes page you will be able to do the following:
 
-I have also included a video with a demo of the project, and I also provided two screenshots. One image is if you have a project that uses a license, and the other image will demonstrate how the readme looks like if you have no license.
+- Click on "Note Title" and "Note Text" fields to add notes.
+- New notes can be saved using the floppy disc icon in the top-right of the browser.
+- Saved notes will appear in the left-hand column.
+- Clicking on a saved note will display the note in the right-hand column
+- The pencil icon will allow the user to add a new note at any time.
+- The trash icon will permanently delete the selected note.
 
-![Demo-Download](https://github.com/rramosx11/Professional-README-Generator/blob/main/assets/README-Generator.mp4)
-
-[Demo-YouTube-Link](https://www.youtube.com/watch?v=O_8ztMHr0z4)
-
-![No License](https://github.com/rramosx11/Professional-README-Generator/blob/main/assets/withoutlicense.png)
-
-![License](https://github.com/rramosx11/Professional-README-Generator/blob/main/assets/withlicense.png)
+![Note Taker Screenshot](https://github.com/rramosx11/note-taker/tree/main/assets/img)
 
 ## [Contributing](#table-of-contents)
 
-Thank you for your interest in contributing; however, no contributions will be needed to Professional-README-Generator project.
+Thank you for your interest in contributing; however, no contributions will be needed to Note-Taker project.
 
 ## [Tests](#table-of-contents)
 
-To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder of the project, and run ‘node index.' Answer the prompts and view the preview of the ‘generated-README.md’ file.
+While in the terminal, you will type npm start to run the server.
 
 ## [Questions](#table-of-contents)
 
