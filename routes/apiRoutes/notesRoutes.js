@@ -12,7 +12,7 @@ const NewNote = (note, notesArray) => {
 
   // saves notes array to db.json
   fs.writeFileSync(
-    path.join(__dirname, "../db/db.json"),
+    path.join(__dirname, "../../db/db.json"),
     JSON.stringify({ notes: notesArray }, null, 2)
   );
 };
