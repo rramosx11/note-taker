@@ -2,22 +2,13 @@
   "notes": [
     {
       "title": "Test Title",
-      "text": "Test text"
+      "text": "Test text",
+      "id": "886127d9-6b5d-42ce-a8b6-cc9b09f4df80"
     },
     {
-      "title": "npm",
-      "text": "ds",
-      "id": "7776b283-b096-429c-b36f-1dc6bf5a19a5"
-    },
-    {
-      "title": "test number 2",
-      "text": "please work",
-      "id": "3f1a255b-1ebf-4292-bbf1-906dfdfafd13"
-    },
-    {
-      "title": "skofmsd",
-      "text": "sdfdsnkdjfns",
-      "id": "b828df77-ff19-4ccc-bb75-466cb4c1a2a9"
+      "title": "real test",
+      "text": "real man",
+      "id": "b98f796c-ca03-46c7-b3b0-bd082d802cd6"
     }
   ]
 }
